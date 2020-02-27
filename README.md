@@ -1,2 +1,6 @@
 # CRD
-Cycloidal Reducer Designer
+
+_Cycloidal Reducer Designer in Julia Lang_
+
+![](CRD.png)
+
