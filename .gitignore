@@ -1,0 +1,77 @@
+### csv2html
+g2m.exe
+
+### qgit script
+qgit_script.sh
+
+### Libreoffice Temp
+*.odp#
+
+### Movie
+#*.avi
+#*.mp4
+#*.mpg
+#*.mpeg
+
+### Image
+#*.png
+#*.jpg
+#*.jpeg
+#*.gif
+
+### Wavefront obj
+#*.obj
+#*.dmt
+
+### Blender
+#*.blend1
+ 
+### FreeCAD
+#*.fcstd1
+ 
+### Solidworks
+~$*.SLDPRT
+~$*.SLDASM
+ 
+### Creo
+ApplicationSettings.db
+std.out
+current_session.pro
+datafile.ers
+errors.lst.*
+fix_params.log
+*.acc
+*.crc
+*.err.*
+*.idx
+*.inf.*
+*.log.*
+std.err
+std.out
+trail.txt
+trail.txt.*
+*.xpr
+*.tst
+*.acl
+*.lst
+*.mbx
+*.ncl.*
+*.ncl_a.tab
+*.ncl_b.tab
+*.ncl_c.tab
+*.ncl_x.tab
+*.ncl_y.tab
+*.ncl_z.tab
+*.tap
+*.m_p
+*.idx
+*.log
+*.lsl.*
+*.bak
+*.pcf
+*.inf
+*.xml
+*.pbk
+
+## Jupyter Notebook
+*.ipynb_checkpoints

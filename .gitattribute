@@ -1,0 +1,69 @@
+### Movie
+*.avi filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mpg filter=lfs diff=lfs merge=lfs -text
+*.mpeg filter=lfs diff=lfs merge=lfs -text
+
+### Images
+#*.jpg filter=lfs diff=lfs merge=lfs -text
+#*.png filter=lfs diff=lfs merge=lfs -text
+#*.gif filter=lfs diff=lfs merge=lfs -text
+*.bmp filter=lfs diff=lfs merge=lfs -text
+*.tiff filter=lfs diff=lfs merge=lfs -text
+*.svg filter=lfs diff=lfs merge=lfs -text
+ 
+### pdf
+*.pdf filter=lfs diff=lfs merge=lfs -text
+ 
+### Compressed files
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
+ 
+### MS Office
+*.ppt filter=lfs diff=lfs merge=lfs -text
+*.pptx filter=lfs diff=lfs merge=lfs -text
+*.doc filter=lfs diff=lfs merge=lfs -text
+*.docx filter=lfs diff=lfs merge=lfs -text
+*.xls filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+ 
+### Hancom Office
+*.hwp filter=lfs diff=lfs merge=lfs -text
+ 
+### Libre Office
+*.odt filter=lfs diff=lfs merge=lfs -text
+ 
+### Blender
+*.blend filter=lfs diff=lfs merge=lfs -text
+ 
+### AutoCAD
+*.dxf filter=lfs diff=lfs merge=lfs -text
+*.dwg filter=lfs diff=lfs merge=lfs -text
+ 
+### PADS
+*.pcb filter=lfs diff=lfs merge=lfs -text
+*.dsn filter=lfs diff=lfs merge=lfs -text
+*.pho filter=lfs diff=lfs merge=lfs -text
+*.rep filter=lfs diff=lfs merge=lfs -text
+*.gbr filter=lfs diff=lfs merge=lfs -text
+ 
+### FreeCAD
+*.fcstd filter=lfs diff=lfs merge=lfs -text
+ 
+### PTC CREO
+*.asm filter=lfs diff=lfs merge=lfs -text
+*.prt filter=lfs diff=lfs merge=lfs -text
+*.drw filter=lfs diff=lfs merge=lfs -text
+*.asm.1 filter=lfs diff=lfs merge=lfs -text
+*.prt.1 filter=lfs diff=lfs merge=lfs -text
+*.drw.1 filter=lfs diff=lfs merge=lfs -text
+*.asm.* filter=lfs diff=lfs merge=lfs -text
+*.prt.* filter=lfs diff=lfs merge=lfs -text
+*.drw.* filter=lfs diff=lfs merge=lfs -text
+ 
+### 3D Neutral
+*.stp filter=lfs diff=lfs merge=lfs -text
+*.step filter=lfs diff=lfs merge=lfs -text
+*.igs filter=lfs diff=lfs merge=lfs -text
+*.iges filter=lfs diff=lfs merge=lfs -text
+
