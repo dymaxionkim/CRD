@@ -1,5 +1,15 @@
 ### CRD
 \#case.dxf
+case.dxf
+case.scr
+case_eccentric_gear.csv
+case_ring_gear.csv
+case_spec.csv
+case.svg
+
+### Nanocad
+*.dwl
+*.dwl2
 
 ### csv2html
 g2m.exe
