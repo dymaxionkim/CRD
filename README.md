@@ -8,7 +8,7 @@ _Cycloidal Reducer Designer in Julia Lang_
 
 ### 1. Condition
 
-* __Anaconda3-2019.03__ : Jupyter Notebook, ezdxf, csv
+* __Anaconda3-2019.03__ : Jupyter Notebook, ezdxf
 * __Julia 1.3__ : IJulia, PyPlot
 
 ### 2. CRD.ipynb
